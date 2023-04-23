@@ -2,6 +2,7 @@ builds:
   - binary: konfig
     goos:
       - darwin
+      - linux
     goarch:
       - amd64
       - arm64
